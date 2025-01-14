@@ -1,0 +1,26 @@
+html {
+  background-color: black;
+}
+
+.viorel {
+  border: 3px solid white;
+  width: 100%;
+}
+
+.content {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+}
+
+.hai-ca-ti-spun-o-problema {
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-align: center;
+}
+
+.problema {
+  color: white;
+  text-align: center;
+}
